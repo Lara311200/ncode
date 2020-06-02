@@ -1,0 +1,382 @@
+@font-face {
+    font-family: soinsanslight;
+    src: url(../fonts/Stawix\ -\ SoinSansNeue-Light.otf);
+}
+
+@font-face {
+    font-family: soinsansheavy;
+    src: url(../fonts/Stawix\ -\ SoinSansNeue-Heavy.otf);
+}
+
+.clear{
+    clear: both;
+}
+
+header{
+    background-color: #F5F5F5;
+}
+
+body{
+    background-color: #F5F5F5;
+}
+
+nav{
+    width: 100%;
+    height: 500px;
+    background-image: url(../assets/Component\ 1\ –\ 1@2x.png);
+    background-size: 1800px 1000px;
+    background-repeat: no-repeat;
+    background-position: center -500px;
+}
+
+.logowit{
+    width: 124px;
+    height: 124px;
+    margin-left: 50px;
+    margin-top: 30px;
+    float: left;
+}
+
+ul li a{
+    font-family: soinsansheavy;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+ul li{
+    float: left;
+    margin-left: 100px;
+    margin-top: 72px;
+
+}
+
+ul{
+    width: 100%;
+    padding-left: 47%;
+}
+
+.vak1{
+    position: absolute;
+    width: 100%;
+    margin-top: -360px;
+}
+
+.textvak1{
+    float: left;
+    padding-left: 100px;
+}
+
+h1{
+    font-family: soinsansheavy;
+    font-size: 40px;
+    color: #707070;
+    margin-top: 170px;
+}
+
+p{
+    font-family: soinsanslight;
+    font-size: 20px;
+    color: #707070;
+    width: 400px;
+    margin-top: 13px;
+    margin-bottom: 45px;
+}
+
+.leesmeer{
+    background-color: #735EE5;
+    color: white;
+    font-family: soinsansheavy;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 20px 70px;
+    border-radius: 50px;
+}
+
+.bgillustration{
+    width: 1000px;
+    height: 600px;
+    background-image: url(../assets/Path\ 65@2x.png);
+    background-size: 950px 580px;
+    background-position: center top;
+    background-repeat: no-repeat;
+    position: absolute;
+    margin-left: 480px;
+}
+
+.illustration{
+    width: 900px;
+}
+
+.h1mid{
+    width: 100%;
+    text-align: center;
+    padding-top: 150px;
+    border-bottom: 3px solid #707070;
+    padding-bottom: 30px;
+}
+
+#vormen{
+    width: 480px;
+    height: 450px;
+    float: left;
+    background-size: 450px;
+    background-position: center center;
+    margin-top: 120px;
+    margin-left: 20px;
+}
+
+.vorm1{
+    background-image: url(../assets/shape1.png);
+}
+
+.vorm2{
+    background-image: url(../assets/shape2.png);
+}
+
+.vorm3{
+    background-image: url(../assets/shape3.png);
+    background-repeat: no-repeat;
+}
+
+.icons{
+    width: 90px;
+    margin-top: 130px;
+}
+
+#book{
+    margin-left: 220px;
+    width: 80px;
+}
+
+#download{
+    margin-left: 200px;
+}
+
+#computer{
+    margin-left: 145px;
+    margin-top: 115px;
+}
+
+h2{
+    font-family: soinsansheavy;
+    color: white;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.h2book{
+    margin-left: 130px;
+}
+
+.h2download{
+    margin-left: 80px;
+}
+
+.h2computer{
+    margin-left: 57px;
+}
+
+.icontext{
+    color: white;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+}
+
+#pbook{
+    width: 210px;
+    margin-left: 125px;
+}
+
+#pdownload{
+    width: 190px;
+    margin-left: 150px;
+}
+
+#pcomputer{
+    width: 220px;
+    margin-left: 57px;
+}
+
+.bigvorm1{
+    width: 100%;
+    height: 1100px;
+    background-image: url(../assets/bigshape1.png);
+    background-position-x: -100px;
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+
+.bigshapeh2{
+    width: 500px;
+    text-align: center;
+    line-height: 49px;
+    font-size: 40px;
+    margin-left: 33.5%;
+    padding-top: 420px;
+    border-bottom: 3px solid white;
+}
+
+.bigshapetext{
+    color: white;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    width: 500px;
+    margin-left: 33.5%;
+    margin-top: 20px;
+    line-height: 30px;
+}
+
+.arrowbutton{
+    font-family: soinsanslight;
+    color: #707070;
+    font-size: 50px;
+    background-color: #F5F5F5;
+    text-decoration: none;
+    border-radius: 50px;
+    padding: 0px 11px;
+    float: left;
+    margin-top: 160px;
+}
+
+.thumb{
+    width: 320px;
+    height: 380px;
+    background-color: white;
+    float: left;
+    border-radius: 35px;
+    margin-left: 40px;
+}
+
+#rightbutton{
+    margin-left: 40px;
+}
+
+#leftbutton{
+    margin-left: 10%;
+}
+
+h4{
+    font-family: soinsansheavy;
+    color: #6F00BD;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 290px;
+}
+
+.meerinfo{
+    font-family: soinsansheavy;
+    font-size: 18px;
+    color: white;
+    background-color: #6F00BD;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 50px;
+    margin-left: 65px;
+}
+
+.bigvorm2{
+    width: 100%;
+    height: 910px;
+    background-image: url(../assets/bigshape2.png);
+    background-repeat: no-repeat;
+    background-position-x: -600px;
+    background-size: 2200px;
+}
+
+#bredertextvak{
+    width: 700px;
+    margin-left: 27%;
+}
+
+#onzevisie{
+    padding-top: 445px;
+}
+
+.bigvorm3{
+    width: 100%;
+    height: 1100px;
+    background-image: url(../assets/bigshape3.png);
+    background-repeat: no-repeat;
+    background-position-x: -500px;
+    background-size: 2700px;
+}
+
+#wiezijnwij{
+    padding-top: 250px;
+}
+
+#smallertextvak{
+    width: 350px;
+    margin-left: 38%;
+}
+
+h3{
+    float: left;
+    font-family: soinsansheavy;
+    color: white;
+    font-size: 18px;
+}
+
+.firstname{
+    margin-left: 270px;
+}
+
+.secondname{
+    margin-left: 125px;
+}
+
+.thirdname{
+    margin-left: 140px;
+}
+
+.fourthname{
+    margin-left: 155px;
+}
+
+.fotos{
+    width: 1000px;
+    margin-left: 255px;
+    margin-top: 30px;
+}
+
+.buttonvak{
+    width: 100%;
+    margin-top: 80px;
+    padding-left: 41.5%;
+}
+
+.stuurons{
+    font-family: soinsansheavy;
+    font-size: 18px;
+    color: white;
+    background-color: #6F00BD;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+
+.footerlogo{
+    width: 124px;
+    height: 124px;
+    margin-left: 50px;
+    margin-top: 30px;
+    float: left;
+    padding-bottom: 30px;
+}
+
+.footertext{
+    color: #7D5DD7;
+    font-size: 20px;
+}
+
+.footerlist{
+    margin-top: 90px;
+}
+
+.footerul{
+    padding-left: 55%;
+}
